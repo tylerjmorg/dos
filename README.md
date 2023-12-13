@@ -1,4 +1,5 @@
 # Document Organization System
+The Document Organization System can also be refered to as the *DOS*.
 ## Abstract
 This standard outlines how digital and physical documents, informative information, folders/folios, booklets, cards, vaults, and any other important documents are to be filed and organized. This system is primarily designed for individuals in the United States but can be modified to fit the needs of individuals in other countries.
 
@@ -22,7 +23,7 @@ It is imperative that average individuals have the knowledge to easily access th
 |Revision 5   |✅    |2023-12-02    |
 |Revision 6   |✅    |2023-12-03    |
 |Final Draft for Hard Testing (FDHT)|✅|2023-12-04|
-|Final Published Draft|⚙️| |
+|Final Publication Draft|⚙️| |
 |Published First Edition| | |
 
 ### Document Revision Stages
