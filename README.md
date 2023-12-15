@@ -3,7 +3,7 @@ The Document Organization System can also be refered to as the *DOS*.
 
 >Author: Tyler Morgan
 >
->Email: contact@tylermorgan.co
+>Email: DOS@tylermorgan.co
 ## Abstract
 This standard outlines how digital and physical documents, informative information, folders/folios, booklets, cards, vaults, and any other important documents are to be filed and organized. This system is primarily designed for individuals in the United States but can be modified to fit the needs of individuals in other countries.
 
