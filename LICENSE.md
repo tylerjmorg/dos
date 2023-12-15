@@ -1,6 +1,7 @@
 # Copyright and Licensing
 Document Organization System – Draft Edition © 2023 by Tyler Morgan is licensed under CC BY-NC-ND 4.0
 
+If you have any questions, concerns, feedback, etc. about the copyright of this document, please contact me at copyright@tylermorgan.co.
 
 
 # Attribution-NonCommercial-NoDerivatives 4.0 International
