@@ -1,5 +1,5 @@
 # Issues Submission Policy
-All concerns, questions, feedback, criticism (constructive or harsh ;) are all very much welcome to be submitted within issues. Please be extremely detailed and provide examples/analogies when submitting so I can quickly fix the issue or provide clarification.
+All concerns, questions, feedback, criticism (constructive or harsh ;) are all very much welcome to be submitted within issues. Please be extremely detailed and provide examples/analogies when submitting so I can quickly fix the issue or provide clarification. Please refrain from posting duplicate issues (check all open issues before submitting).
 
 ## When do open issues get closed?
 All open issues within this repo will be closed if one of the following criteria are met below:
