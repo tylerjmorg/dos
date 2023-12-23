@@ -15,8 +15,7 @@ When referencing the latest publication of this document, please use the followi
 
 When referencing the DOS as a whole or generally, please use the following link: https://github.com/TylerJMorg/DOS
 
-Please be sure to include attribution or citation as needed. You may follow any citation format according to your preference or needs. Here is a general reference for the latest draft:
-> Tyler Morgan. [_Document Organization System – Draft Edition – FDHT_](https://github.com/TylerJMorg/DOS). 4 December 2023. Working Draft. URL: https://github.com/TylerJMorg/DOS
+Please be sure to include attribution or citation as needed. You may follow any citation format according to your preference or needs. Please see [Citation Assistance](https://github.com/TylerJMorg/DOS/blob/main/Latest%20Publication/Citation%20Assistance.md) for more information.
 
 ### Draft History
 |Draft History|Status|Date Completed|
