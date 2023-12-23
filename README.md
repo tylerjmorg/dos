@@ -9,6 +9,15 @@ This standard outlines how digital and physical documents, informative informati
 
 It is imperative that average individuals have the knowledge to easily access their important documents on-demand while still keeping their information in secure locations using state-of-the-art technology. This standard outlines the security and consistency of document organizing for easy access while keeping physical and online threats at a minimum.
 
+
+### Document Referencing
+When referencing the latest publication of this document, please use the following link: https://github.com/TylerJMorg/DOS/tree/main/Latest%20Publication This link will always include the latest document in the repository.
+
+When referencing the DOS as a whole or generally, please use the following link: https://github.com/TylerJMorg/DOS
+
+Please be sure to include attribution or citation as needed. You may follow any citation format according to your preference or needs. Here is a general reference for the latest draft:
+> Tyler Morgan. [_Document Organization System – Draft Edition – FDHT_](https://github.com/TylerJMorg/DOS). 4 December 2023. Working Draft. URL: https://github.com/TylerJMorg/DOS
+
 ### Draft History
 |Draft History|Status|Date Completed|
 |-------------|------|--------------|
