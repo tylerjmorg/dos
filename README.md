@@ -41,7 +41,7 @@ Please be sure to include attribution or citation as needed. You may follow any 
 ### Document Revision Stages
 |Phase|Status|Date Completed/Completion Expected|
 |-----|------|----------------------------------|
-|Conceivement|:white_check_mark:|2023-08-31|
+|Conception|:white_check_mark:|2023-08-31|
 |Drafting|:white_check_mark:|2023-09-08|
 |Soft Testing|:white_check_mark:|2023-12-02|
 |Revision|:white_check_mark:|2023-12-03|
