@@ -1,5 +1,5 @@
 # Document Organization System
-The Document Organization System can also be refered to as the *DOS*.
+The Document Organization System can also be referred to as the *DOS*.
 
 >Author: Tyler Morgan
 >
