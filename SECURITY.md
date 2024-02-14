@@ -13,4 +13,4 @@ The following editions are currently being supported with security updates. Plea
 
 If you happen to find such vulnerabilities, please add them to the issues tab in the repo or contact me at DOS@tylermorgan.co.
 
-Responses to security vulnerabilities will vary between 1-5 businness days depending on the severity of the vulnerability. Fixes will be pushed out about 1-3 weeks from the report being acknowledged.
+Responses to security vulnerabilities will vary between 1-5 business days depending on the severity of the vulnerability. Fixes will be pushed out about 1-3 weeks from the report being acknowledged.
