@@ -3,4 +3,4 @@ This folder of the repository includes only the about section, the citation assi
 
 Please use this link to refer to the latest publication of the DOS specifically: https://github.com/TylerJMorg/DOS/tree/main/Latest%20Publication
 
-When referncing the DOS in general, please refer to this link: https://github.com/TylerJMorg/DOS/
+When referencing the DOS in general, please refer to this link: https://github.com/TylerJMorg/DOS/
