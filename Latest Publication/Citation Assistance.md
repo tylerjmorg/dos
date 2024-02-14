@@ -25,7 +25,7 @@ References (Hanging indent needed)
 
 
 ## Chicago 17 (Full note)
-Footnote (First line indent and number needed)
+Footnote (First line indent and superscript number needed)
 > Tyler Morgan, “Document Organization System – Draft Edition – FDHT,” GitHub, December 4, 2023, https://github.com/TylerJMorg/DOS.
 
 Bibliography (Hanging indent needed)
