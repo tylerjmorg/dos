@@ -11,7 +11,7 @@ It is imperative that average individuals have the knowledge to easily access th
 
 
 ### Document Referencing
-When referencing the latest publication of this document, please use the following link: https://github.com/TylerJMorg/DOS/tree/main/Latest%20Publication This link will always include the latest document in the repository.
+When referencing the latest publication of this document, please use the following link: https://tylermorgan.co/DOS This link will always include the latest document.
 
 When referencing the DOS as a whole or generally, please use the following link: https://github.com/TylerJMorg/DOS
 
@@ -35,7 +35,7 @@ Please be sure to include attribution or citation as needed. You may follow any 
 |Revision 5   |:white_check_mark:|2023-12-02    |
 |Revision 6   |:white_check_mark:|2023-12-03    |
 |Final Draft for Hard Testing (FDHT)|:white_check_mark:|2023-12-04|
-|Final Publication Draft|:gear:| |
+|Final Publication Draft 1|:white_check_mark:|2024-04-22 |
 |Published First Edition| | |
 
 ### Document Revision Stages
@@ -45,7 +45,7 @@ Please be sure to include attribution or citation as needed. You may follow any 
 |Drafting|:white_check_mark:|2023-09-08|
 |Soft Testing|:white_check_mark:|2023-12-02|
 |Revision|:white_check_mark:|2023-12-03|
-|Hard Testing|:gear:|TBD|
+|Hard Testing|:white_check_mark:|2024-04-22|
 |Finalization|:gear:|TBD|
 |Full-Scale Beta| |TBD|
 |Final Draft Approved| |TBD|
