@@ -1,5 +1,5 @@
 # Copyright and Licensing
-[Document Organization System – Draft Edition](https://github.com/TylerJMorg/DOS) © 2023 by [Tyler Morgan](https://linktr.ee/TylerJMorg) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+[Document Organization System – Draft Edition](https://github.com/TylerJMorg/DOS) © 2024 by [Tyler Morgan](https://linktr.ee/TylerJMorg) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 If you have any questions, concerns, feedback, etc. about the copyright of this document, please contact me at copyright@tylermorgan.co.
 
