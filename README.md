@@ -13,7 +13,7 @@ It is imperative that average individuals have the knowledge to easily access th
 
 
 ## Document Referencing
-When referencing the latest publication of this document, please use the following URL: [https://dos.tylermorgan.co/DOS](https://dos.tylermorgan.co). This link will always include the latest document.
+When referencing the latest publication of this document, please use the following URL: [https://dos.tylermorgan.co](https://dos.tylermorgan.co). This link will always include the latest document.
 
 When referencing the DOS as a whole or in general, please use the following URL: [https://github.com/TylerJMorg/DOS](https://github.com/TylerJMorg/DOS).
 
