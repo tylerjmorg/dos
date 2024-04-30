@@ -1,7 +1,11 @@
 #
 # robots.txt for https://dos.tylermorgan.co/
 #
+# Last Updated: 2024-04-30T06:25:00Z
+#
 
 # Disallow 404 error page
 User-agent: *
 Disallow: /404.html/
+
+Sitemap: https://dos.tylermorgan.co/pages/sitemap/sitemap.xml
