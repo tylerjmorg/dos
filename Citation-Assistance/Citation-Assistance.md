@@ -1,5 +1,5 @@
 # Citation Assistance
-Please use the following citations below when referencing this document. Citation assistance is updated the same day a new version is published.
+Please use the following citations below when referencing this document. Citation assistance is updated the same day a new version is published. The CITATION.cff file is also in the root directory of this repo.
 
 ## General Reference
 > Tyler Morgan. [_Document Organization System – Draft Edition – v0.8.0_](https://github.com/TylerJMorg/DOS). 22 April 2024. Working Draft. URL: https://github.com/TylerJMorg/DOS
