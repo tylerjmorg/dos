@@ -1,6 +1,8 @@
 # Document Organization System
 The Document Organization System is also referred to as the *DOS*.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11095725.svg)](https://doi.org/10.5281/zenodo.11095725)
+
 >Author: Tyler Morgan
 >
 >Email: DOS@tylermorgan.co
