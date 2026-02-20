@@ -11,6 +11,6 @@ The following editions are currently being supported with security updates. Plea
 
 ## Reporting a Vulnerability
 
-If you happen to find such vulnerabilities, please add them to the issues tab in the repo or contact me at DOS@tylermorgan.co.
+If you happen to find such vulnerabilities, please add them to the issues tab in the repo or contact me at https://tylermorgan.org/contact.
 
 Responses to security vulnerabilities will vary between 1-5 business days depending on the severity of the vulnerability. Fixes will be pushed out about 1-3 weeks from the report being acknowledged.

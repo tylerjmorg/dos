@@ -6,4 +6,4 @@ All open issues within this repo will be closed if one of the following criteria
 * The issue is fixed and the issue author is satisfied with the fix.
 * The issue does not require a fix (no action is needed) and the issue author does not respond to the repo owner/collaborator's response within 30 days.
 
-Of course, if you have any questions about this policy, you can always submit an issue or contact me at DOS@tylermorgan.co.
+Of course, if you have any questions about this policy, you can always submit an issue or contact me at https://tylermorgan.org/contact.

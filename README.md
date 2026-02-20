@@ -5,9 +5,9 @@ The Document Organization System is also referred to as the *DOS*.
 
 >Author: Tyler Morgan
 >
->Email: DOS@tylermorgan.co
+>Contact: https://tylermorgan.org/contact
 >
->Website: https://tylermorgan.co
+>Website: https://tylermorgan.org
 ## Abstract
 This standard outlines how digital and physical documents, informative information, folders/folios, booklets, cards, vaults, and any other important documents are to be filed and organized. This system is primarily designed for individuals in the United States but can be modified to fit the needs of individuals in other countries.
 
@@ -15,20 +15,20 @@ It is imperative that average individuals have the knowledge to easily access th
 
 
 ## Document Referencing
-When referencing the latest publication of this document, please use the following URL: [https://dos.tylermorgan.co](https://dos.tylermorgan.co). This link will always include the latest document.
+When referencing the latest publication of this document, please use the following URL: [https://dos.tylermorgan.org](https://dos.tylermorgan.org). This link will always include the latest document.
 
-When referencing the DOS as a whole or in general, please use the following URL: [https://github.com/TylerJMorg/DOS](https://github.com/TylerJMorg/DOS).
+When referencing the DOS as a whole or in general, please use the following URL: [https://github.com/tylerjmorg/dos](https://github.com/tylerjmorg/dos).
 
-Please be sure to include attribution or citation as needed. You may follow any citation format according to your preference or needs. Please see [Citation Assistance](https://github.com/TylerJMorg/DOS/blob/main/Citation-Assistance/Citation-Assistance.md) for more information.
+Please be sure to include attribution or citation as needed. You may follow any citation format according to your preference or needs. Please see [Citation Assistance](https://github.com/tylerjmorg/dos/blob/main/Citation-Assistance/Citation-Assistance.md) for more information.
 
 ## Version Directory
 Latest published version:
->[https://dos.tylermorgan.co](https://dos.tylermorgan.co)
+>[https://dos.tylermorgan.org](https://dos.tylermorgan.org)
 
 All versions (newest to oldest):
->v0.8.0 – [https://dos.tylermorgan.co/WD/0.8.0-20240422.pdf](https://dos.tylermorgan.co/WD/0.8.0-20240422.pdf)
+>v0.8.0 – [https://dos.tylermorgan.org/WD/0.8.0-20240422.pdf](https://dos.tylermorgan.org/WD/0.8.0-20240422.pdf)
 >
->FDHT – [https://dos.tylermorgan.co/WD/FDHT-20231204.pdf](https://dos.tylermorgan.co/WD/FDHT-20231204.pdf)
+>FDHT – [https://dos.tylermorgan.org/WD/FDHT-20231204.pdf](https://dos.tylermorgan.org/WD/FDHT-20231204.pdf)
 
 ###
 

@@ -3,11 +3,10 @@ message: "If you use this dataset, please cite it using the metadata from this f
 authors:
   - family-names: Morgan
     given-names: Tyler
-    alias: TylerJMorg
+    alias: tylerjmorg
     country: US
     orcid: "https://orcid.org/0009-0006-9819-6065"
-    email: DOS@tylermorgan.co
-    website: "https://tylermorgan.co/"
+    website: "https://tylermorgan.org/"
 title: "Document Organization System – Draft Edition"
 type: dataset
 version: 0.8.0
@@ -15,16 +14,16 @@ abstract: "A document organization system for households and small businesses."
 identifiers:
   - description: "The canonical source PDF URL of the DOS; which may include later versions of the standard."
     type: url
-    value: "https://dos.tylermorgan.co/"
+    value: "https://dos.tylermorgan.org/"
   - description: "The canonical source DOI of the DOS; which may include later versions of the standard."
     type: doi
     value: 10.5281/zenodo.11095725
   - description: "The PDF URL of version 0.8.0 of the DOS."
     type: url
-    value: "https://dos.tylermorgan.co/WD/0.8.0-20240422.pdf"
+    value: "https://dos.tylermorgan.org/WD/0.8.0-20240422.pdf"
   - description: "The DOI snapshot of version 0.8.0 of the DOS."
     type: doi
     value: 10.5281/zenodo.11095726
 date-released: "2024-04-22"
-repository-code: "https://github.com/TylerJMorg/DOS"
+repository-code: "https://github.com/tylerjmorg/dos"
 license: CC-BY-NC-ND-4.0

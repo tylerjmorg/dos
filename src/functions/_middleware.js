@@ -2,7 +2,7 @@ export async function onRequest({ request, next }) {
   const url = new URL(request.url);
   const host = url.hostname;
 
-  const isProduction = host === "dos.tylermorgan.co";
+  const isProduction = host === "dos.tylermorgan.org";
   const isPreviewDeployment =
     host.endsWith(".dos-8sv.pages.dev") &&
     host !== "dos-8sv.pages.dev";

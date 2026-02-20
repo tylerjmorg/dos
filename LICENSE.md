@@ -1,10 +1,10 @@
 # Copyright and Licensing
-[Document Organization System – Draft Edition](https://github.com/TylerJMorg/DOS) © 2023-2024 by [Tyler Morgan](https://tylermorgan.co) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+[Document Organization System – Draft Edition](https://github.com/tylerjmorg/dos) © 2023-2024 by [Tyler Morgan](https://tylermorgan.org) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-If you have any questions, concerns, feedback, etc. about the copyright of this document, please contact me at copyright@tylermorgan.co.
+If you have any questions, concerns, feedback, etc. about the copyright of this document, please contact me at https://tylermorgam.org/contact.
 
 
-# Attribution-NonCommercial-NoDerivatives 4.0 International ![by-nc-nd](https://github.com/TylerJMorg/DOS/raw/main/media-assets/CC-BY-NC-ND.svg)
+# Attribution-NonCommercial-NoDerivatives 4.0 International ![by-nc-nd](https://github.com/tylerjmorg/dos/raw/main/media-assets/CC-BY-NC-ND.svg)
 
 > *Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.*
 >
