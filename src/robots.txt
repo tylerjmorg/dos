@@ -1,5 +1,5 @@
 #
-# robots.txt for https://dos.tylermorgan.co/
+# robots.txt for https://dos.tylermorgan.org/
 #
 # Last Updated: 2024-04-30T06:25:00Z
 #
@@ -8,4 +8,4 @@
 User-agent: *
 Disallow: /404.html/
 
-Sitemap: https://dos.tylermorgan.co/pages/sitemap/sitemap.xml
+Sitemap: https://dos.tylermorgan.org/pages/sitemap/sitemap.xml
